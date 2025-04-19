@@ -1,4 +1,4 @@
-# Scholar Summary
+# Scholar Summary -  **[Live now](https://scholar-summary-self.vercel.app/)**
 
 A Next.js application that finds and summarizes scholarly articles based on your interests. The app uses a fine tuned Cohere model for generating relevant search queries, Google Scholar for finding academic papers, and OpenAI's GPT 4.1 Nano for creating easy-to-understand summaries.
 
